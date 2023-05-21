@@ -700,7 +700,7 @@ async function loadFiles() {
             '„Izazivanje opšte opasnosti u saobraćaju“| nakon što mu je saobraćajna policija ustanovila 2.4 promila alkohola pokušao da ukrade policijsko vozilo prilikom legitimisanja.',
             '„Izazivanje opšte opasnosti“| prilikom proslave rođenja djeteta pucajući iz automatske puške ubio komšijinog psa.',
             '„Izazivanje opšte opasnosti“| nakon porodičnog slavlja nekoliko kilometara vozio psa svezanog za kuku od auta.  Osumnjičeni je od ranije poznat policiji jer je letvom ubijao pse lutalice.',
-            '„Ugrožavanje sigurnosti“ i „Izazivanje opšte opasnosti“| prilikom proslave pobjede KK Partizana protiv KK Cibproslave rođenja djeteta pucajući iz automatske puške ubio komšijinog psa.one bacio bombu na susjedno imanje oštetivši više pomoćnih objekata.',
+            '„Ugrožavanje sigurnosti“ i „Izazivanje opšte opasnosti“| prilikom proslave pobjede KK Partizana protiv KK Cibone bacio bombu na susjedno imanje oštetivši više pomoćnih objekata.',
             '„Teška krađa“| iskoristio nepažnju policijskih službenika u kontroli saobraćaja te ukrao policijski radar "Ramer" i pobjegao u pravcu Pala. Brzom intervencijom uhapšen je i vraćen u Sokolac.',
             '„Teška krađa“ i „Ugrožavanje sigurnosti“| uz prijetnju pištoljem otuđio pazar iz kladionice "Mozzart" u Sokocu.',
             '„Teška krađa“ i „Ugrožavanje sigurnosti“| uz prijetnju pištoljem otuđio pazar iz pekare u Sokocu.',
